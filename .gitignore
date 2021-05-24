@@ -1,4 +1,4 @@
 # Project exclude paths
 /out/
-/src/javacore/Calculator/
-/src/javacore/Worker/
+/src/javacore/Calculator
+/src/javacore/Worker
